@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f6b3cc8-fb9b-4ae9-94da-2310d9e2b610" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1g1COsscTMlvCgnPH3Zyu1oXmiZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager" selected="JUnit.AccountTest.testDeposit">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="First Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AccountTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AccountTest" />
+      <option name="MAIN_CLASS_NAME" value="AccountTest.AccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.testDeposit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="First Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AccountTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AccountTest" />
+      <option name="MAIN_CLASS_NAME" value="AccountTest.AccountTest" />
+      <option name="METHOD_NAME" value="testDeposit" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.testWithdraw" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="First Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AccountTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AccountTest" />
+      <option name="MAIN_CLASS_NAME" value="AccountTest.AccountTest" />
+      <option name="METHOD_NAME" value="testWithdraw" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionLogTest.addTransactions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="First Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TransactionTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TransactionTest" />
+      <option name="MAIN_CLASS_NAME" value="TransactionTest.TransactionLogTest" />
+      <option name="METHOD_NAME" value="addTransactions" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TransactionLogTest.getTransactions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="First Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TransactionTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TransactionTest" />
+      <option name="MAIN_CLASS_NAME" value="TransactionTest.TransactionLogTest" />
+      <option name="METHOD_NAME" value="getTransactions" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountTest.testDeposit" />
+        <item itemvalue="JUnit.AccountTest" />
+        <item itemvalue="JUnit.AccountTest.testWithdraw" />
+        <item itemvalue="JUnit.TransactionLogTest.addTransactions" />
+        <item itemvalue="JUnit.TransactionLogTest.getTransactions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration>C:\Users\suspended.mirror\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f6b3cc8-fb9b-4ae9-94da-2310d9e2b610" name="Default Changelist" comment="" />
+      <created>1597272683558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597272683558</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="785" y="358" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597272716691">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="785" y="358" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1597272716691" />
+    <state x="830" y="257" key="#com.intellij.ide.util.MemberChooser" timestamp="1598142937583">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="830" y="257" key="#com.intellij.ide.util.MemberChooser/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1598142937583" />
+    <state x="1006" y="392" key="FileChooserDialogImpl" timestamp="1599783158099">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1598143176239" />
+    <state x="1006" y="392" key="FileChooserDialogImpl/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1599783158099" />
+    <state width="2027" height="298" key="GridCell.Tab.0.bottom" timestamp="1598164672283">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="298" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1598164672283" />
+    <state width="2027" height="298" key="GridCell.Tab.0.center" timestamp="1598164672282">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="298" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1598164672282" />
+    <state width="2027" height="298" key="GridCell.Tab.0.left" timestamp="1598164672282">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="298" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1598164672282" />
+    <state width="2027" height="298" key="GridCell.Tab.0.right" timestamp="1598164672282">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="298" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1598164672282" />
+    <state width="2027" height="336" key="GridCell.Tab.1.bottom" timestamp="1598161362485">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="336" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1598161362485" />
+    <state width="2027" height="336" key="GridCell.Tab.1.center" timestamp="1598161362485">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="336" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1598161362485" />
+    <state width="2027" height="336" key="GridCell.Tab.1.left" timestamp="1598161362485">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="336" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1598161362485" />
+    <state width="2027" height="336" key="GridCell.Tab.1.right" timestamp="1598161362485">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2027" height="336" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1598161362485" />
+    <state x="666" y="253" key="SettingsEditor" timestamp="1599783182650">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="533" y="201" key="SettingsEditor/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1597598587383" />
+    <state x="666" y="253" key="SettingsEditor/0.0.2560.1400/2560.0.2560.1400@0.0.2560.1400" timestamp="1599783182650" />
+    <state x="754" y="448" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1597618471438">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="754" y="448" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1597618471438" />
+    <state x="571" y="292" width="905" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1598146620724">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="571" y="292" width="905" height="628" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1598146620724" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

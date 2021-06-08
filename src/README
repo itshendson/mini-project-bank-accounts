@@ -1,0 +1,21 @@
+(づ｡◕‿‿◕｡)づ ... PHASE 1
+
+Phase 1 of the project should be VERY SIMPLE. We are creating a savings account. Don't overcomplicate it by adding too many bells and whistles.
+I just want to practice some concepts then MOVE ON with the rest of the CPSC 210 lecture notes and assignments. Phase 1 should be a simple savings account.
+There will be an abstract class with both abstract and non abstract method. You will be able to interact with the application to do simple banking things.
+There will be subclasses for different types of savings account offered by BMO. The savings account can deposit, withdraw, or read your balance.
+Ignore the other stuff until later phases. The success of the application will be based on JUnit tests.
+
+The purpose of this project is to practice the things that I have learned so far. The concepts I want to practice are:
+- Abstract Class (extends)
+- Interface (implements)
+- Data Abstraction
+- Mutability best practice
+- Objects
+- Weakening the the pre-condition
+- Strengthening the post-condition
+- helper
+
+Was accidentally forced to learn:
+- JUnit
+
